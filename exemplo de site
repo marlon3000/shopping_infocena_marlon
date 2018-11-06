@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+ <meta charset="utf-8">
+ 
+
+<title>quem somos </title>
+<meta name="viewport"
+content+"width+ device-width, initial-scale+1.0">
+
+link real="stylesheet"
+href+"css/estilo.css/>
+
+</head>
+<body>
+
+<form method="post" action=" pagina2.html">
+nome: <input type="text" id="name"
+name="nome-completo"
+placeholder="digite seu nome"
+
+value=""/>
+
+sexo: <input type=" radio" id"sexo"
+name="optsexo"/>M
+<input type+"radio" id="sexo"
+name="optsexo"/>F
+
+como conheceu a gente: 
+
+<input type="checkbox" id="conheceu"
+name="optconheceu"/>
+facebook
+<input type= "checkbox" id="concheceu"
+name="optconheceu"/> E-mail
